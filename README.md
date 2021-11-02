@@ -3,7 +3,6 @@
 Compendium of resources for fledgling/seasoned SREs:
 
 ## Linux
----
 
 ### Boot Process
 
@@ -22,7 +21,6 @@ Compendium of resources for fledgling/seasoned SREs:
 - [Linux insides](https://github.com/0xAX/linux-insides) [Ref]
 
 ## Other
----
 
 ### Communication
 
