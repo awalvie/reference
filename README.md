@@ -18,7 +18,12 @@ Compendium of resources for fledgling/seasoned SREs:
 
 - [Anatomy of the Linux kernel](https://developer.ibm.com/articles/l-linux-kernel/)
 - [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)
+- [Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread)
 - [Linux insides](https://github.com/0xAX/linux-insides) [Ref]
+
+## Networking
+
+- [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ## Other
 
