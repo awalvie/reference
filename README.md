@@ -25,7 +25,15 @@ Compendium of resources for fledgling/seasoned SREs:
 
 - [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
+### Tools
+
+- [KeyCDN Tools](https://tools.keycdn.com/) - Troubleshoot website, network, and CDN issues
+
 ## Other
+
+### Security
+
+- [Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?app=desktop&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 ### Communication
 
