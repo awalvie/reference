@@ -31,6 +31,10 @@ Compendium of resources for fledgling/seasoned SREs:
 
 ## Other
 
+### Go
+
+- [Effective Go](https://go.dev/doc/effective_go)
+
 ### Security
 
 - [Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?app=desktop&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
