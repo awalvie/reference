@@ -32,6 +32,7 @@
 ### Go
 
 - [Effective Go](https://go.dev/doc/effective_go)
+- [Practical Go - Dave Cheney](Ghttps://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ### Security
 
