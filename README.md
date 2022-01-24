@@ -42,3 +42,7 @@
 
 - [How to ask good questions](https://jvns.ca/blog/good-questions/?utm_source=pocket_mylist)
 - [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/?utm_source=pocket_mylist)
+
+### SRE
+
+- [SRE Handbook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/content/)
