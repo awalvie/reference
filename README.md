@@ -19,6 +19,18 @@
 - [Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread)
 - [Linux insides](https://github.com/0xAX/linux-insides) [Ref]
 
+---
+
+## Infra As Code
+
+### Containers
+
+- [Bocker - Docker implemented in around 100 lines of bash.](https://github.com/p8952/bocker)
+- [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/)
+- [How Docker works - Intro to Namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8)
+
+---
+
 ## Networking
 
 - [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
@@ -27,12 +39,14 @@
 
 - [KeyCDN Tools](https://tools.keycdn.com/) - Troubleshoot website, network, and CDN issues
 
+---
+
 ## Other
 
 ### Go
 
 - [Effective Go](https://go.dev/doc/effective_go)
-- [Practical Go - Dave Cheney](Ghttps://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ### Security
 
@@ -46,3 +60,6 @@
 ### SRE
 
 - [SRE Handbook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/content/)
+- [School of SRE](https://linkedin.github.io/school-of-sre/)
+
+---
