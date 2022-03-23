@@ -19,8 +19,6 @@
 - [Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread)
 - [Linux insides](https://github.com/0xAX/linux-insides) [Ref]
 
----
-
 ## Infra As Code
 
 ### Containers
@@ -29,8 +27,6 @@
 - [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/)
 - [How Docker works - Intro to Namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8)
 
----
-
 ## Networking
 
 - [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
@@ -38,8 +34,6 @@
 ### Tools
 
 - [KeyCDN Tools](https://tools.keycdn.com/) - Troubleshoot website, network, and CDN issues
-
----
 
 ## Other
 
