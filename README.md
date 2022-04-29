@@ -55,5 +55,6 @@
 
 - [SRE Handbook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/content/)
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
+- [Linux Performance](https://www.brendangregg.com/linuxperf.html)
 
 ---
